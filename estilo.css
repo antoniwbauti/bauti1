@@ -1,0 +1,42 @@
+.cabecera{
+	position: fixed;
+	z-index: 1;
+}
+.fondo{
+	background-color: #F8E0F7;
+}
+.fondo1{
+	background-color: #B40404;
+}
+.color1{
+	color: #FFBF00 !important;
+}
+.tamaño{
+	width: 7em;
+	height: 7em;
+}
+.margin{
+	margin-left: 0.15em;
+	border:#FFBF00 solid 2px;
+	border-radius: 0.25em;
+}
+.margin1{
+	margin-top: 4em;
+}
+.margin2{
+	margin-top: 1em;
+}
+.border{
+	border:#FFFFFF solid 1px;
+	border-radius: 0.3em;
+}
+.border1{
+	border:#FFBF00 solid 2px;
+	border-radius: 0.25em;
+}
+.padding{
+	padding-left: 1.5em;
+}
+.padding1{
+	padding-left: 4em;
+}
