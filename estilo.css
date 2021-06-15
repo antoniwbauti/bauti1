@@ -40,3 +40,9 @@
 .padding1{
 	padding-left: 4em;
 }
+.caja{
+	display: inline-block;
+}
+.margin3{
+	margin-left: 1em;
+}
