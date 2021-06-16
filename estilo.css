@@ -26,10 +26,6 @@
 .margin2{
 	margin-top: 1em;
 }
-.border{
-	border:#FFFFFF solid 1px;
-	border-radius: 0.3em;
-}
 .border1{
 	border:#FFBF00 solid 2px;
 	border-radius: 0.25em;
@@ -40,9 +36,15 @@
 .padding1{
 	padding-left: 4em;
 }
+.padding2{
+	padding-top: 1em;
+}
 .caja{
 	display: inline-block;
 }
 .margin3{
 	margin-left: 1em;
+}
+.centro{
+	text-align: center;
 }
